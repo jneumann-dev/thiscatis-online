@@ -1,0 +1,10 @@
+---
+layout: page
+---
+<h1> Art</h1>
+<ul>
+{% assign image_files = site.static_files | where: "image", true %}
+{% for myimage in image_files %}
+  <li><img src"{{ myimage.path }}/></li>
+{% endfor %}
+</ul>
