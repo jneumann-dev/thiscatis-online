@@ -4,6 +4,7 @@ caption: #what displays in the portfolio grid:
   subtitle: Multimedia/mixed media visual art. Painting, watercolors, and more.
   thumbnail: /assets/img/portfolio/artthumb.jpg
   
+targeturl: /art
 #what displays when the item is clicked:
 title: Placeholder!
 subtitle: Lorem Ipsum
