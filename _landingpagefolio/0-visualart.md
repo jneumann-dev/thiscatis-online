@@ -5,11 +5,3 @@ caption: #what displays in the portfolio grid:
   thumbnail: /assets/img/portfolio/artthumb.jpg
   
 targeturl: /art
-#what displays when the item is clicked:
-title: Placeholder!
-subtitle: Lorem Ipsum
-image: /assets/img/landpagefolio/art.jpg #main image, can be a link or a file in assets/img/portfolio
-alt: Placeholder alt text
-
----
-Dolor Sit Amet

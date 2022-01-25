@@ -1,6 +1,6 @@
 ---
-title: Podcasting
-subtitle: 
-image: /assets/img/portfolio/podcastthumb.jpg
-alt: Keep Exploring
+caption: #what displays in the portfolio grid:
+  title: Podcasting
+  subtitle: 
+  thumbnail: /assets/img/portfolio/podcastthumb.jpg
 targeturl: /podcasting
